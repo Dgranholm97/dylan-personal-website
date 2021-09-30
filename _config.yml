@@ -30,7 +30,7 @@ twitter_username: Dgranholm97
 github_username:  Dgranholm97
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
